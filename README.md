@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @verasookim
-- 👀 I’m interested in how to run a business most efficiently.
+- 👀 I’m interested in data analysis and algorithms.
 - 🌱 I’m currently learning data science in Norway.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at verasookim@gmail.com
